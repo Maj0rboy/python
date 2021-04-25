@@ -1,2 +1,2 @@
 # python
-writing scripts in python
+python projects
